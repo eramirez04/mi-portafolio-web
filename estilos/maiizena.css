@@ -1,0 +1,22 @@
+* {
+  font-family: sans-serif;
+}
+ 
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2em;
+
+}
+.imagen img {
+    height: 400px;
+    cursor: pointer;
+}
