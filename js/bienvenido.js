@@ -1,3 +1,4 @@
+ alert("estare actualizando mi pagina cada semana") 
 
 let logo = document.getElementById("perfil")
 let mainMenu = document.getElementById("menu")
